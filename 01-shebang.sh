@@ -7,5 +7,5 @@ For a file only one shebang is possible. If you keep one more shebang in second 
 Also shebang has to be in very first line.
 
 
-
+shell scrit is nothing but adding all your manual commands in a order
 
